@@ -1,5 +1,7 @@
 # Qles Lab
 
+Some kind of FL studio but for quantum computing:sob: was made completely by AI for me, but ill leave it here cuz why not:
+
 Quantum Learning & Engineering Lab — a local Windows desktop quantum engineering sandbox.
 
 **To play now, double-click `Qles Lab.exe` in this folder.** Keep `_runtime` beside the EXE. No Python installation or network connection is needed for the built application. All interfaces, missions and reference pages are in English. The dark graphite/olive theme uses cream text and warm orange accents.
